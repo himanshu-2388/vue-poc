@@ -1,4 +1,4 @@
-# halo-poc
+# poc
 
 ## Project setup
 ```
